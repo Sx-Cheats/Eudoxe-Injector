@@ -7,3 +7,5 @@
 ![](https://github.com/Sx-Cheats/Eudoxe-Injector/blob/main/Previews/Eudoxe.jpg)
 
 ![](https://github.com/Sx-Cheats/Eudoxe-Injector/blob/main/Previews/Preview0.PNG) ![](https://github.com/Sx-Cheats/Eudoxe-Injector/blob/main/Previews/Preview1.PNG) ![](https://github.com/Sx-Cheats/Eudoxe-Injector/blob/main/Previews/Preview2.PNG)
+
+#### Author : https://github.com/Sx-Cheats
