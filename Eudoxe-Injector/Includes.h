@@ -1,7 +1,5 @@
 #pragma once
 
-#pragma once
-
 #include <QtWidgets/QMainWindow>
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
